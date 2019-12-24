@@ -1,0 +1,3 @@
+objective-c:
+
+pod "CTMediator"
